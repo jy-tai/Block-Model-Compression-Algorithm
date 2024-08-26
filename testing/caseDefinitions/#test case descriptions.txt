@@ -1,0 +1,65 @@
+#test case descriptions
+
+testCase.1
+geological layer number = 8; 
+debries layer number = 2;
+plotx, y, z = 25
+
+testCase.2
+plotx, y, z = 100
+
+TtestCase.3
+geological layer number = 20; 
+debries layer number = 5;
+plot x, y, z = 64;
+
+testCase.4
+geological layer number = 12; 
+debries layer number = 3;
+plot x, y, z = 20
+
+testCase.5
+geological layer number = 5; 
+debries layer number = 15;
+
+testCase.6
+geological layer number = 15; 
+debries layer number = 5;
+
+testCase.7
+layer_num = 5;
+D_tag_num = 15;
+
+testCase.8
+geological layer number = 20; 
+debries layer number = 20;
+modulartion freq = 50
+
+testCase.9
+geological layer number = 3; 
+debries layer number = 3;
+plot x, y, z = 100
+mod weight = 0.5, layer persistance = 0.5, octaves = 90
+
+testCase.10
+layer num = 12
+d tag num = 3
+layer parameters:
+freq = 10, weight = 0.9, octaves = 1, presistance = 0.1
+
+testCase.11
+geological layer number = 20; 
+debries layer number = 5;
+debris parameters:
+freq = 1
+octaves = 50
+persistance = 0.9
+lacunarity = 10
+layer_falloff = 0.9
+density = 0.9
+
+
+testCase.12
+geological layer number = 60; 
+debries layer number = 1;
+

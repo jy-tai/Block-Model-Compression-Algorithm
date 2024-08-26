@@ -1,0 +1,25 @@
+# parameters-test.10
+LAYER_NUM 20     # Number of geological layers
+D_TAG_NUM 20     # number of layers for debris
+
+# grid size
+PLOT_X 64
+PLOT_Y 64
+PLOT_Z 64
+
+# layer parameters
+Z_SHIFT .2
+MODULATION_FREQ 50.0
+MODULATION_WEIGHT .5
+LAYER_OCTAVES 10
+LAYER_PERSISTANCE .1
+
+# debris parameters
+DEBRIS_FREQ 4
+DEBRIS_OCTAVES 2
+DEBRIS_PERSISTANCE .5
+DEBRIS_LACUNARITY 2
+DEBRIS_LAYER_FALLOFF .1
+DEBRIS_DENSITY .5
+
+SEED 80

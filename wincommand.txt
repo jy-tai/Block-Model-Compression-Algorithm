@@ -1,0 +1,1 @@
+g++ -o DNCV1_1g++.exe src\joshInitial\* common\*.cpp -static-libgcc -static-libstdc++ -m64 --static
