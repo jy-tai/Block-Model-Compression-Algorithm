@@ -7,7 +7,6 @@ Authors:
 - a1834181 Keshav Rana
 - a1828091 Ningyi Shen
 - a1809232 Zonghan Liu
-- a1823089 Jonty Leslie
 - a1837100 Ruobing Wu
 
 
